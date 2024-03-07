@@ -29,6 +29,11 @@ body {
   --six-color: #70b8ff;
   --sept-color: #182449;
 }
+main {
+  width: 1440px;
+  margin: auto;
+  max-width: 100%;
+}
 #sections {
   display: flex;
   justify-content: center;
