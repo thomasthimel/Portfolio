@@ -1,6 +1,8 @@
 body {
   background: rgb(13, 21, 32);
   background: var(--secondary-color);
+  width: 1440px;
+  margin: auto;
   max-width: 100%;
 }
 /*Default dark mode*/
@@ -28,11 +30,6 @@ body {
   --cinq-color: #205d9e;
   --six-color: #70b8ff;
   --sept-color: #182449;
-}
-main {
-  width: 1440px;
-  margin: auto;
-  max-width: 100%;
 }
 #sections {
   display: flex;
