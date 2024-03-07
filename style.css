@@ -1,6 +1,7 @@
 body {
   background: rgb(13, 21, 32);
   background: var(--secondary-color);
+  font-family: "Open Sans", sans-serif;
   max-width: 100%;
 }
 /*Default dark mode*/
@@ -47,7 +48,6 @@ body {
   cursor: pointer;
 }
 #sections h2 {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   color: var(--primary-color);
   font-size: 35px;
   font-weight: bolder;
@@ -59,14 +59,13 @@ body {
   max-width: 100%;
 }
 .lm button {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   display: inline-block;
   color: var(--primary-color);
   background-color: var(--tri-color);
   border: 2px var(--tri-color) solid;
   padding: 5px 30px;
   border-radius: 30px;
-  font-size: 20px;
+  font-size: 15px;
   margin-inline: 130px;
   font-weight: bolder;
   margin-top: 20px;
@@ -78,19 +77,13 @@ body {
   cursor: pointer;
 }
 h1 {
-  text-transform: uppercase;
   color: var(--primary-color);
-  font-size: 100px;
+  font-size: 70px;
   font-weight: bolder;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  text-decoration: underline var(--sept-color);
   max-width: 100%;
 }
-h1 span {
-  color: var(--primary-color);
-  font-size: 75px;
-  font-weight: bolder;
-  max-width: 100%;
+.appre {
+  font-size: 30px;
 }
 .resum h2 {
   display: flex;
@@ -102,7 +95,6 @@ h1 span {
   font-weight: bolder;
   margin-top: 250px;
   margin-bottom: 150px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   max-width: 100%;
 }
 .resum p {
@@ -116,7 +108,6 @@ h1 span {
   font-size: 25px;
   margin-left: 150px;
   margin-right: 150px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   margin-bottom: 200px;
   max-width: 100%;
 }
@@ -139,7 +130,6 @@ h1 span {
   margin: 4px 2px;
   border-radius: 12px;
   margin-right: 40px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   max-width: 100%;
 }
 .me {
@@ -183,7 +173,6 @@ h1 span {
   font-size: 60px;
   font-weight: bolder;
   margin-left: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   max-width: 100%;
 }
 .social img {
@@ -199,7 +188,6 @@ h2 {
   color: var(--primary-color);
   font-size: 40px;
   font-weight: bolder;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   max-width: 100%;
 }
 #techno h2 {
@@ -215,7 +203,6 @@ h2 {
   color: var(--primary-color);
   font-size: 30px;
   font-weight: bold;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   max-width: 100%;
 }
 .apprise,
@@ -278,7 +265,6 @@ h2 {
   border: 2px var(--tri-color) solid;
   border-radius: 50%;
   object-fit: cover;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   margin: auto;
   margin-inline: 120px;
   text-align: center;
