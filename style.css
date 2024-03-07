@@ -144,6 +144,11 @@ h1 {
   margin-right: 200px;
   max-width: 100%;
 }
+.me:hover {
+  box-shadow: 0px 0px 70px 10px #3b4fc1;
+  border-radius: 50%;
+  border: 5px solid #3b4fc1;
+}
 .moi {
   height: 420px;
   display: flex;
