@@ -1,8 +1,6 @@
 body {
   background: rgb(13, 21, 32);
   background: var(--secondary-color);
-  width: 1440px;
-  margin: auto;
   max-width: 100%;
 }
 /*Default dark mode*/
