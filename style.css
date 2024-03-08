@@ -189,6 +189,7 @@ h1 {
   justify-content: center;
   margin-right: 10px;
   max-width: 100%;
+    transform: translateY(3px);
 }
 h2 {
   margin-right: 10px;
