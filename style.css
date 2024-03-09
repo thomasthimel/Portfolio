@@ -360,16 +360,13 @@ h2 {
     top: 200px;
     left: 125px;
   }
-  .me {
+    .me {
     height: 300px;
     width: 300px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    max-width: 100%;
     position: relative;
     bottom: 140px;
-    right: 185px;
+    right: 208px;
+    max-width: 100%;
   }
   h1 {
     display: flex;
