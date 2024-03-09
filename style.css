@@ -371,6 +371,12 @@ h2 {
     right: 208px;
     max-width: 100%;
   }
+    .me img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+  }
   h1 {
     display: flex;
     text-align: center;
