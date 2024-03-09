@@ -339,7 +339,6 @@ h2 {
     justify-content: center;
     position: relative;
     left: 18px;
-
     max-width: 100%;
     margin-bottom: 20px;
   }
@@ -378,6 +377,7 @@ h2 {
     position: relative;
     right: 20px;
     bottom: 20px;
+    max-width: 100%;
   }
   .appre {
     font-size: 20px;
@@ -386,16 +386,19 @@ h2 {
     position: relative;
     top: -10px;
     right: 10px;
+    max-width: 100%;
   }
   .social h2 {
     display: flex;
     text-align: center;
     position: relative;
     bottom: 50px;
+    max-width: 100%;
   }
   #presentation form {
     position: relative;
     bottom: 50px;
+    max-width: 100%;
   }
   #presentation button:hover {
     background-color: var(--cinq-color);
@@ -407,10 +410,12 @@ h2 {
     position: relative;
     top: 100px;
     margin: auto;
+    max-width: 100%;
   }
   .resum h2 {
     position: relative;
     top: 200px;
+    max-width: 100%;
   }
   .conta {
     display: flex;
@@ -418,16 +423,19 @@ h2 {
     justify-content: center;
     position: relative;
     right: 15px;
+    max-width: 100%;
   }
   .bt1 {
     display: flex;
     align-items: center;
     justify-content: center;
+    max-width: 100%;
   }
   .bt2 {
     display: flex;
     align-items: center;
     justify-content: center;
+    max-width: 100%;
   }
   .btn {
     display: none;
@@ -435,31 +443,38 @@ h2 {
   #techno h2 {
     position: relative;
     top: 200px;
+    max-width: 100%;
   }
   .apprise {
     position: relative;
     top: 200px;
+    max-width: 100%;
   }
   .tecnoa {
     position: relative;
     top: 200px;
+    max-width: 100%;
   }
   .tecnoe {
     position: relative;
     top: 200px;
+    max-width: 100%;
   }
   #footer h2 {
     position: relative;
     top: 200px;
+    max-width: 100%;
   }
   .contact {
     display: grid;
     align-items: center;
     justify-content: center;
     height: 550px;
+    max-width: 100%;
   }
   .contact form {
     margin-block: 30px;
+    max-width: 100%;
   }
   .tec1 {
     display: flex;
@@ -529,12 +544,14 @@ h2 {
   .tec3 {
     position: relative;
     top: 100px;
+    max-width: 100%;
   }
   .tec1 img,
   .tec2 img,
   .tec3 img {
     position: relative;
     top: 100px;
+    max-width: 100%;
   }
 
   .tec3 img:hover {
@@ -551,5 +568,6 @@ h2 {
   }
   .tec3 {
     margin-bottom: 200px;
+    max-width: 100%;
   }
 }
